@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ελληνικό HW Πληκτρολόγιο</string>
+    <string name="keyboard_layouts_label">Μάριος Ανδρεόπουλος</string>
+    <string name="keyboard_layout_el_GR_label">Ελληνικά (GR)</string>
+</resources>
