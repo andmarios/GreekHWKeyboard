@@ -1,6 +1,6 @@
 # Greek layout for hardware keyboards on Android #
 
-This project adds an Extended Greek layout to Android for use with physical keyboards.
+This project adds the Greek layout to Android 4.1+ for use with physical keyboards.
 
 I used tialaramex's [BritishKeyboard](https://github.com/tialaramex/BritishKeyboard) as a skeleton.
 
