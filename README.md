@@ -9,7 +9,7 @@ Since the original code does not come with a license, I do not think I can give 
 
 If you want to learn more about the app itself, you can visit [its page at Google Play](https://play.google.com/store/apps/details?id=com.andmarios.greekhwkeyboard).
 
-If you want to learn more about physical keyboard layouts in Android 4.1+, have a look at [keyboard_layout_el_gr](blob/master/res/raw/keyboard_layout_el_gr.kcm).
+If you want to learn more about physical keyboard layouts in Android 4.1+, have a look at [keyboard_layout_el_gr](res/raw/keyboard_layout_el_gr.kcm).
 
 
 Easiest way to get an apk:
