@@ -14,7 +14,7 @@ If you want to learn more about physical keyboard layouts in Android 4.1+, have 
 
 Easiest way to get an apk:
 
-    $ git clone git@github.com:andmarios/GreekHWKeyboard.git
-    $ cd GreekHWKeyboard
-    $ android update project -p .
-    $ ant debugboard_layout_el_gr.kcm).
+    git clone git://github.com/andmarios/GreekHWKeyboard.git
+    cd GreekHWKeyboard
+    android update project -p .
+    ant debug
